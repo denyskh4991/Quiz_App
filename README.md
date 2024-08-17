@@ -34,11 +34,11 @@ This quiz app is a responsive, user-friendly web application designed to provide
 
   The CSS provides the visual styling, including layout, colors, fonts, and responsiveness. Flexbox is used to ensure proper alignment and spacing of elements, contributing to a consistent user experience.
 
-3. JavaScript Functionality
+- JavaScript Functionality
 
    The core logic is handled by JavaScript, which includes:
    
-- Question Management
+  <h3>Question Management</h3>
   
   Functions to display questions
 
@@ -66,7 +66,7 @@ This quiz app is a responsive, user-friendly web application designed to provide
         // Function implementation
       }
   
-- Event Listeners
+  Event Listeners
 
   The app adds event listeners to the answer buttons and "Next" button, enabling interactive quiz progression.
 
@@ -74,7 +74,7 @@ This quiz app is a responsive, user-friendly web application designed to provide
           // Function implementation
           }
 
-- State Reset
+  State Reset
 
   Functions to reset the interface for the next question or restart the quiz after completion.
 
