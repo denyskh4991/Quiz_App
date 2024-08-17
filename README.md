@@ -24,7 +24,7 @@ This quiz app is a responsive, user-friendly web application designed to provide
 
   The app uses a custom Google Font ("Poppins") for a clean and modern appearance, with a color scheme that is easy on the eyes and enhances readability. Buttons and interactive elements feature rounded corners and smooth transitions for a polished look.
   
-2. Technical Overview:
+<h2>2. Technical Overview:</h2>
 
 - HTML Structure
 
@@ -38,7 +38,7 @@ This quiz app is a responsive, user-friendly web application designed to provide
 
    The core logic is handled by JavaScript, which includes:
    
-  <h3>Question Management</h3>
+  <h4>Question Management</h4>
   
   Functions to display questions
 
