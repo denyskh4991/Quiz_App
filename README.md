@@ -42,7 +42,7 @@ This quiz app is a responsive, user-friendly web application designed to provide
   
   Functions to display questions
 
-  <span style="color: red;">function</span> startQuiz() {
+      function startQuiz() {
         // Function implementation
       }
 
