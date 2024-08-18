@@ -82,4 +82,5 @@ This quiz app is a responsive, user-friendly web application designed to provide
         // Function implementation
       }
 
-  In summary, this quiz app leverages modern web technologies to deliver an engaging and interactive quiz experience. Its clean design, combined with robust functionality, makes it both user-friendly and visually appealing.
+  <h4>Summary</h4>
+  This quiz app leverages modern web technologies to deliver an engaging and interactive quiz experience. Its clean design, combined with robust functionality, makes it both user-friendly and visually appealing.
