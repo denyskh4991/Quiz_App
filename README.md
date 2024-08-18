@@ -1,4 +1,4 @@
-# Quiz_App
+# Quiz App
 
 This quiz app is a responsive, user-friendly web application designed to provide an interactive quiz experience. The app is built using HTML, CSS, and JavaScript, featuring a clean design with a modern, intuitive layout.
 
