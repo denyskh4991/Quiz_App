@@ -74,7 +74,7 @@ This quiz app is a responsive, user-friendly web application designed to provide
           // Function implementation
           }
 
-  <h4>State Reset</h4>
+  <h2>State Reset</h2>
 
   Functions to reset the interface for the next question or restart the quiz after completion.
 
